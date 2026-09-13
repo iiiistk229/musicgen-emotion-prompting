@@ -1,0 +1,5 @@
+file,musicgen_target,classifier_prediction,match,prob_angry,prob_calm,prob_happy,prob_sad
+happy_001.wav,Happy,Angry,False,0.388,0.134,0.356,0.122
+angry_001.wav,Angry,Angry,True,0.458,0.116,0.268,0.158
+calm_001.wav,Calm,Angry,False,0.406,0.16,0.242,0.192
+sad_001.wav,Sad,Angry,False,0.37,0.114,0.322,0.194

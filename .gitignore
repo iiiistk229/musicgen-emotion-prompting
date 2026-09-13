@@ -1,0 +1,19 @@
+# Downloaded EMOPIA data and locally rendered training audio
+/classifier/data/
+/classifier/wav/
+# Local environments, caches and credentials
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+._*
+__MACOSX/
+*.pem
+*.key
+# Newly collected participant responses need review before sharing
+responses.csv

@@ -1,0 +1,5 @@
+﻿emotion,n,matches,agreement
+Happy,2,1,0.5
+Angry,2,2,1.0
+Calm,2,0,0.0
+Sad,2,0,0.0

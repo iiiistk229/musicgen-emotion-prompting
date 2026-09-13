@@ -1,0 +1,12 @@
+# Direct imports only; versions were not recovered or tested during archiving.
+gradio
+joblib
+librosa
+matplotlib
+muspy
+numpy
+pandas
+scikit-learn
+scipy
+torch
+transformers

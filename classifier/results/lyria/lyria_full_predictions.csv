@@ -1,0 +1,9 @@
+﻿file,lyria_target,classifier_prediction,match,prob_angry,prob_calm,prob_happy,prob_sad
+lyria_angry_01.wav,Angry,Angry,True,0.384,0.118,0.306,0.192
+lyria_angry_02.wav,Angry,Angry,True,0.554,0.058,0.242,0.146
+lyria_calm_01.wav,Calm,Angry,False,0.522,0.104,0.196,0.178
+lyria_calm_02.wav,Calm,Angry,False,0.516,0.096,0.234,0.154
+lyria_happy_01.wav,Happy,Happy,True,0.366,0.088,0.374,0.172
+lyria_happy_02.wav,Happy,Angry,False,0.402,0.114,0.316,0.168
+lyria_sad_01.wav,Sad,Angry,False,0.56,0.096,0.202,0.142
+lyria_sad_02.wav,Sad,Angry,False,0.534,0.094,0.238,0.134
